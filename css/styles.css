@@ -758,7 +758,6 @@ background-color: #404BBF;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-top: 72px;
     margin-bottom: 16px;
     
 }
@@ -878,6 +877,7 @@ color:  rgba(46, 47, 66, 0.40);
 .review-form-checkbox-label>
 .review-form-box-checkbox{
 border: 1px solid #4D5AE5;
+
 }
 
 .review-form-checkbox-label{
