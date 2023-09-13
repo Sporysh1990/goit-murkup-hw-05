@@ -768,6 +768,7 @@ margin-bottom: 16px;
 
 }
 
+
 .review-form-label{
         display:block;
         margin-bottom: 4px;   
@@ -927,7 +928,9 @@ border: 1px solid #4D5AE5;
 .review-form-checkbox-container{
     margin-bottom: 24px;
 }
-
+.container-comment{
+    margin-bottom: 16px;
+}
 
 
 
