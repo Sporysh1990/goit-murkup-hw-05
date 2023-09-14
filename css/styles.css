@@ -763,9 +763,10 @@ background-color: #404BBF;
 }
 
 .review-form-container{
-margin-bottom: 16px;
+margin-bottom: 8px;
 
 }
+
 
 
 .review-form-label{
@@ -861,7 +862,6 @@ color:  rgba(46, 47, 66, 0.40);
  fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 }
-
 
 
 .review-form-checkbox:checked + 
