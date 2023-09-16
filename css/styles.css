@@ -874,12 +874,7 @@ color:  rgba(46, 47, 66, 0.40);
 }
 
 
-.review-form-checkbox:focus +
-.review-form-checkbox-label>
-.review-form-box-checkbox{
-border: 1px solid #4D5AE5;
 
-}
 
 .review-form-checkbox-label{
     color: #8E8F99;
